@@ -23,6 +23,6 @@ C:\react>react-native init ShoppingList
     • cd C:\react\ShoppingList && npx react-native run-android
 
 
-
+C:\react\ShoppingList>npm i react-native-vector-icons
 
 
