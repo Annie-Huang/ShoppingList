@@ -24,5 +24,4 @@ C:\react>react-native init ShoppingList
 
 
 C:\react\ShoppingList>npm i react-native-vector-icons
-
-
+C:\react\ShoppingList>react-native link react-native-vector-icons
